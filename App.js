@@ -13,7 +13,7 @@ export default function App() {
       {/* A component consisting of a flatlist displaying all previously transcribed texts here 
       (the HomeScreen component, HomeCameraButton notrequired),
       along with a button that opens Scan component */}
-      
+
       <Scan/>
     </View>
   );
@@ -27,3 +27,5 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
