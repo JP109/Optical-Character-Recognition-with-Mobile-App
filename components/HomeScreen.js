@@ -6,21 +6,21 @@ import HomeCameraButton from './HomeCameraButton';
 const HomeScreen = () => {
     return (
         <View>
-            <HomeCameraButton />
+
         </View>
     )
 }
 
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        alignItems: 'flex-end',
-        backgroundColor: 'pink'
-    },
-    scan_button: {
-        backgroundColor: 'yellow'
-    }
-})
+// const styles = StyleSheet.create({
+//     container: {
+//         flex: 1,
+//         alignItems: 'flex-end',
+//         backgroundColor: 'pink'
+//     },
+//     scan_button: {
+//         backgroundColor: 'yellow'
+//     }
+// })
 
 //TEST
 
